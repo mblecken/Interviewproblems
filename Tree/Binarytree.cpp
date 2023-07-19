@@ -9,7 +9,7 @@ struct node {
     struct node* left;
     struct node* right;
 };
-
+//changes
 struct node* newNode(char data)
 {
     // Allocate memory for new node
