@@ -7,13 +7,6 @@ string rtrim(const string &);
 vector<string> split(const string &);
 
 
-//QUESTION:
-
-//why can't I set up with:
-//int freqmost, freqleast = 0; 
-//int mostpoints, leastpoints = scores[0];
-
-//*******************************************
 
 
 
